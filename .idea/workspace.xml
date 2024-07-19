@@ -7,8 +7,6 @@
     <list default="true" id="cbefbb99-5a04-4278-8292-f4ae4aaf4a0e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../ControlWorkJavaTask2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ControlWorkJavaTask2/ControlWorkJavaTask2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson1/homeWork1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson1/homeWork1/Server.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exception/HomeWork_3/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exception/HomeWork_3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Seminar/Java_Seminar_1/Java_Seminar_1.iml" afterDir="false" />
@@ -22,7 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../../Trenajor/trenajor/trenajor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../C#/DZ1/DZ_C_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C#/DZ1/DZ_C_1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson1/homeWork1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson1/homeWork1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/phonebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/phonebook.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../самоподготовка - решение задач/C#/camopogotovka" beforeDir="false" afterPath="$PROJECT_DIR$/../../../самоподготовка - решение задач/C#/camopogotovka" afterDir="false" />
     </list>
@@ -53,17 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/evgeniiokhrimenko/Desktop/учеба/Java/Development Kit/Development_Kit/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/evgeniiokhrimenko/Desktop/учеба/Java/Development Kit/Development_Kit/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.org.example.lesson1.homeWork1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.lesson1.lecture1.Main" />
