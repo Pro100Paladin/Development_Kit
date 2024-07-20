@@ -22,7 +22,7 @@ public class Server extends JFrame {
         JPanel panel = new JPanel(new GridLayout(5, 2));
 
         JLabel jlb1 = new JLabel("Введите логин: ");
-        panel.add(jlb1);
+        panel.add(jlb1, BorderLayout.NORTH);
         panel.add(loginField);
         JLabel jlb2 = new JLabel("Введите пароль: ");
         JTextField jtf2 = new JTextField();
