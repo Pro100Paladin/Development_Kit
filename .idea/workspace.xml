@@ -19,9 +19,7 @@
       <change afterPath="$PROJECT_DIR$/../../Trenajor/OOP_HW1/OOP_HW1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Trenajor/trenajor/trenajor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../C#/DZ1/DZ_C_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C#/DZ1/DZ_C_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/CompareArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/CompareArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/phonebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/phonebook.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../самоподготовка - решение задач/C#/camopogotovka" beforeDir="false" afterPath="$PROJECT_DIR$/../../../самоподготовка - решение задач/C#/camopogotovka" afterDir="false" />
     </list>
@@ -67,7 +65,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.lesson4.homeWork4.Main">
+  <component name="RunManager" selected="Application.org.example.lesson3.homeWork3.Main">
     <configuration name="org.example.lesson1.homeWork1.HW1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.lesson1.homeWork1.HW1.Main" />
       <module name="Development_Kit" />
@@ -135,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.lesson4.homeWork4.Main" />
         <item itemvalue="Application.org.example.lesson3.homeWork3.Main" />
+        <item itemvalue="Application.org.example.lesson4.homeWork4.Main" />
         <item itemvalue="Application.org.example.lesson2.homeWork2.Main" />
         <item itemvalue="Application.org.example.lesson1.homeWork1.HW1.Main" />
         <item itemvalue="Application.org.example.lesson1.homeWork1.Main" />
