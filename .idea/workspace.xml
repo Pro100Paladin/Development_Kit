@@ -7,11 +7,6 @@
     <list default="true" id="cbefbb99-5a04-4278-8292-f4ae4aaf4a0e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../ControlWorkJavaTask2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ControlWorkJavaTask2/ControlWorkJavaTask2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/CompareArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exception/HomeWork_3/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exception/HomeWork_3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Seminar/Java_Seminar_1/Java_Seminar_1.iml" afterDir="false" />
@@ -24,7 +19,9 @@
       <change afterPath="$PROJECT_DIR$/../../Trenajor/OOP_HW1/OOP_HW1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Trenajor/trenajor/trenajor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../C#/DZ1/DZ_C_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C#/DZ1/DZ_C_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/homeWork3/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/phonebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/phonebook.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../самоподготовка - решение задач/C#/camopogotovka" beforeDir="false" afterPath="$PROJECT_DIR$/../../../самоподготовка - решение задач/C#/camopogotovka" afterDir="false" />
     </list>
@@ -56,34 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/evgeniiokhrimenko/Desktop/учеба/Java/Development Kit/Development_Kit/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/evgeniiokhrimenko/Desktop/учеба/Java/Development Kit/Development_Kit/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.org.example.lesson3.homeWork3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lesson1.lecture1.Main" />
-      <module name="Development_Kit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.lesson1.lecture1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.org.example.lesson4.homeWork4.Main">
     <configuration name="org.example.lesson1.homeWork1.HW1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.lesson1.homeWork1.HW1.Main" />
       <module name="Development_Kit" />
@@ -136,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.lesson4.homeWork4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.homeWork4.Main" />
+      <module name="Development_Kit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson4.homeWork4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.lesson4.homeWork4.Main" />
         <item itemvalue="Application.org.example.lesson3.homeWork3.Main" />
         <item itemvalue="Application.org.example.lesson2.homeWork2.Main" />
         <item itemvalue="Application.org.example.lesson1.homeWork1.HW1.Main" />
         <item itemvalue="Application.org.example.lesson1.homeWork1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -7,22 +7,23 @@ package org.example.lesson3.homeWork3;
  */
 public class Calculator {
 
-    public static <Num1 extends Number, Num2 extends Number> Double sum(Num1 num1, Num2 num2) {
+    public static <T extends Number> Double sum(T num1, T num2) {
         return num1.doubleValue() + num2.doubleValue();
     }
 
-    public static <Num1 extends Number, Num2 extends Number> Double multiply(Num1 num1, Num2 num2) {
+    public static <T extends Number> Double multiply(T num1, T num2) {
         return num1.doubleValue() * num2.doubleValue();
     }
 
-    public static <Num1 extends Number, Num2 extends Number> Double divide(Num1 num1, Num2 num2) {
-        if (num2.doubleValue() == 0){
+    public static <T extends Number> Double divide(T num1, T num2) {
+        if (num2.doubleValue() == 0) {
             System.out.println("Делить на ноль нельзя!");
         }
         return num1.doubleValue() / num2.doubleValue();
     }
-    public static <Num1 extends Number, Num2 extends Number> Double subtract(Num1 num1, Num2 num2){
-        return num1.doubleValue()- num2.doubleValue();
+
+    public static <T extends Number> Double subtract(T num1, T num2) {
+        return num1.doubleValue() - num2.doubleValue();
     }
 
 }
