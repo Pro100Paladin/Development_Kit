@@ -7,9 +7,7 @@
     <list default="true" id="cbefbb99-5a04-4278-8292-f4ae4aaf4a0e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../ControlWorkJavaTask2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ControlWorkJavaTask2/ControlWorkJavaTask2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson4/homeWork4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson4/homeWork4/EmployeeDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson4/homeWork4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson4/homeWork4/EmployeeDB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exception/HomeWork_3/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Exception/HomeWork_3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Seminar/Java_Seminar_1/Java_Seminar_1.iml" afterDir="false" />
@@ -35,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>

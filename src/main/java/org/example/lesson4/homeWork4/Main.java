@@ -1,41 +1,38 @@
 package org.example.lesson4.homeWork4;
 
-import java.util.Arrays;
+import java.util.Scanner;
+
+import static org.example.lesson4.homeWork4.EmployeeDB.getEmployeeDirectory;
 
 public class Main {
+
     public static void main(String[] args) {
-        Employee employee1 = new Employee(1, 89215555555L, "Евгений", 10);
-        Employee employee2 = new Employee(2, 89216666666L, "Александр", 1);
-        Employee employee3 = new Employee(3, 89217777777L, "Егор", 20);
-        Employee employee4 = new Employee(4, 89218888888L, "Екатерина", 5);
-        Employee employee5 = new Employee(5, 89218999999L, "Оля", 3);
-        Employee employee6 = new Employee(6, 89211111111L, "Надежда", 10);
-        Employee employee7 = new Employee(7, 89222222222L, "Оля", 10);
 
 
-        EmployeeDirectory employeeDirectory = new EmployeeDirectory();
-        employeeDirectory.add(employee1);
-        employeeDirectory.add(employee2);
-        employeeDirectory.add(employee3);
-        employeeDirectory.add(employee4);
-        employeeDirectory.add(employee5);
-        employeeDirectory.add(employee6);
-        employeeDirectory.add(employee7);
+        EmployeeDirectory employeeDirectory = getEmployeeDirectory();
 
 
-        for (Employee exp : employeeDirectory.searchForAnEmployeeByExperience(10)
+        System.out.println("Введите стаж работника: ");
+        Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
+        for (Employee exp : employeeDirectory.searchForAnEmployeeByExperience(number)
         ) {
-            System.out.println(exp.getName());
+            System.out.println(exp.name());
         }
         System.out.println();
 
-        for (Employee phoneN : employeeDirectory.phoneNumberByName("Оля")
+
+        System.out.println("Введите имя работника: ");
+        Scanner scannerName = new Scanner(System.in);
+        String name = scannerName.nextLine();
+        for (Employee phoneN : employeeDirectory.phoneNumberByName(name)
         ) {
-            System.out.println(phoneN.getPhoneNumber());
+            System.out.println(phoneN.phoneNumber());
         }
         System.out.println();
 
-        System.out.println(employeeDirectory.searchForAnEmployeeByPersonnelNumber(6).getFirst().getName());
+
+        System.out.println(employeeDirectory.searchForAnEmployeeByPersonnelNumber(6).getFirst().name());
 
 
     }
